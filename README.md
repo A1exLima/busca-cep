@@ -17,7 +17,7 @@ O projeto de Consulta de CEP é uma aplicação simples que utiliza a biblioteca
 <a href= "https://zipcodeentrance.netlify.app/" target="_blank"> Clique aqui ⏯ </a>
 </p>
 
-<img src="/home.png" width="900px;"  alt="Imagem do projeto"/><br>
+<img src="./public/home.png" width="900px;"  alt="Imagem do projeto"/><br>
 
 ## 🛠️ Construído com
 
