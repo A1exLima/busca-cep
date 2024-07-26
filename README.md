@@ -6,10 +6,11 @@ O projeto de Consulta de CEP é uma aplicação simples que utiliza a biblioteca
 
 ## 🤖 Funcionalidades
 
-. Consulta por CEP: O usuário digita um CEP na interface da aplicação.
-. Requisição HTTP: Utilizando Axios, a aplicação faz uma requisição GET para a API ViaCEP.
-. Manipulação de Dados: Os dados retornados pela API são manipulados e exibidos na interface do usuário.
-. Exibição de Resultados: Após receber a resposta da API, a aplicação exibe os detalhes do endereço correspondente ao CEP informado.
+* Consulta por CEP: O usuário digita um CEP na interface da aplicação.
+* Requisição HTTP: Utilizando Axios, a aplicação faz uma requisição GET para a API ViaCEP.
+* Manipulação de Dados: Os dados retornados pela API são manipulados e exibidos na interface do usuário.
+* Exibição de Resultados: Após receber a resposta da API, a aplicação exibe os detalhes do endereço correspondente ao CEP informado.
+
 
 ## ☁️ Deploy
 
