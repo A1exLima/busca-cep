@@ -24,7 +24,6 @@ O projeto de Consulta de CEP é uma aplicação simples que utiliza a biblioteca
 
 * [React](https://reactjs.org/) - Biblioteca para construção de interfaces de usuário
 * [React DOM](https://reactjs.org/docs/react-dom.html) - API para manipulação do DOM com React
-* [React Hook Form](https://react-hook-form.com/) - Gerenciamento de formulários no React
 * [React Icons](https://react-icons.github.io/react-icons/) - Conjunto de ícones para React
 * [Styled Components](https://styled-components.com/) - Estilização baseada em componentes
 * [Axios](https://axios-http.com/ptbr/) - Biblioteca baseada em JavaScript que permite fazer requisições HTTP de maneira simples e eficiente.
